@@ -1,0 +1,30 @@
+.contenedorPrincipal{
+
+    position: absolute;
+    height: 600px;
+    width: 800px;
+    background:#00CC66;
+    text-align: center;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%,-50%);
+    border-radius: 30px;
+    
+}
+  .cardbody{
+
+    background: white;
+    height: 90%;
+    padding: 20px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30 px; 
+
+}body{
+    background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials.jpg);
+    background-size: cover;
+
+
+}.estilodeTexto{
+    margin-top: 10%;
+
+}
